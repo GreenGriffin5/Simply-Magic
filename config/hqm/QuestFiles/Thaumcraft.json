@@ -1,9 +1,9 @@
 {
-  "name": "Thaumcraft",
+  "name": "Thuamcarft",
   "description": "This quest line introduces you to all major mechanics in Thaumcraft as well as providing hints and tips for lesser-known parts of the mod. You will be given several major milestones, but you are encouraged to explore outside of the quest line. Each add-on has some quests from it and quests may be unavailable until you have the required research. If you have played Thaumcraft many times and wish to skip the research game, you may change the difficulty in the Thaumcraft.cfg file.                          -  Authored by DrasticDemise",
   "quests": [
     {
-      "name": "Yer a Thaumaturge Harry",
+      "name": "Yer a Thaumaturge, Harold",
       "description": "The Thaumonomicon serves as the starting point in Thaumcraft in which accumulated knowledge is stored for later reference. It can be created by tapping a bookcase with a wand.",
       "x": 23,
       "y": 14,
@@ -50,7 +50,7 @@
         "id": "Thaumcraft:ItemInkwell"
       },
       "prerequisites": [
-        "Yer a Thaumaturge Harry"
+        "Yer a Thaumaturge, Harold"
       ],
       "trigger": "ANTI_TRIGGER",
       "tasks": [
